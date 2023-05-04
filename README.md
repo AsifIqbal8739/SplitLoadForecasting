@@ -1,5 +1,5 @@
 # SplitLoadForecasting
-This repository contains the experimental code for the "Privacy-Preserving Collaborative Split Learning Framework for Smart Grid Load Forecasting" paper
+This repository contains the experimental code for the "Privacy-Preserving Collaborative Split Learning Framework for Smart Grid Load Forecasting" paper currently under review at TIFS.
 
 # Get Started
 - Install Python 3.6, PyTorch 1.9.0 to run the code.
